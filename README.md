@@ -1,4 +1,4 @@
-# two-cameras
+#follow-ball
 NEXTGEN Group Members:
 122463 - Ajuang Kimberley 
 121432 - Noela Shisiali
